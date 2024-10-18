@@ -1,3 +1,3 @@
-# editor-js-audio
-Its a Editor js custom plugin for audio , you can upload or attach link of audio on your page
+# editor-js-plugins
 
+Just open that @editor.js zip to see tresure for plugins.
